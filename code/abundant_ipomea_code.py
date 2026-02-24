@@ -10,6 +10,7 @@ Original file is located at
 
 includes some visualizations
 """
+# Results and figures shown in presentation in the presentation folder
 
 # @title Install dependencies
 !pip install umap-learn --quiet
